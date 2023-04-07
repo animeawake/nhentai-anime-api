@@ -1,4 +1,4 @@
-# AniKatsu API
+# Nhentai API
 
 ### Installing
 

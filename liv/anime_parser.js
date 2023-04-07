@@ -4,7 +4,7 @@ import cheerio from 'cheerio';
 import {
   generateEncryptAjaxParameters,
   decryptEncryptAjaxResponse,
-} from './helpers/extractors/goload.js';
+} from './helpers/extractors/anihdplay.js';
 import { extractStreamSB } from './helpers/extractors/streamsb.js';
 import { extractFembed } from './helpers/extractors/fembed.js';
 import { USER_AGENT, renameKey } from './utils.js';

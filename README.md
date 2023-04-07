@@ -6,8 +6,8 @@ Clone the Repository and run
 
 
 ```
-git clone https://github.com/shashankktiwariii/anikatsu-api.git
-cd anikatsu-api
+git clone https://github.com/animeawake/nhentai-anime-api
+cd nhentai-anime-api
 npm install 
 ```
 start the server with the following command:
